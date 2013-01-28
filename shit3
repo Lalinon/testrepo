@@ -1,0 +1,27 @@
+The following Change Management Request has been forwarded to Venkat Appineni and Site Ops - IRD, CM Cab Prod Ops Managers for approval.
+
+You can view the complete details of the CMR here:
+http://cm.ops.yahoo.com/requests/viewrequest/cmr_id/586569
+You can comment on (add a Journal entry) to the CMR here: 
+http://cm.ops.yahoo.com/requests/viewrequest/addjournalentry/1/cmr_id/586569
+
+CMR 586569 submitted by Nidhi Jolly:
+-------------------------------------------------------------------------------
+
+Title                :   Fix dual loop issue on IRD filers
+
+Requestor's Email    :   nidhij@yahoo-inc.com
+Work Phone           :   +1 (408) 349-1551
+Cell Phone           :   +1 (408) 386-3759
+Messenger ID         :   nidhi_jolly
+Team                 :   Storage Ops (All)
+
+Scheduled Start Date :   2013/01/30 09:00 PST (2013/01/30 17:00 UTC)
+Scheduled End Date   :   2013/01/30 10:00 PST (2013/01/30 18:00 UTC)
+Duration             :   01:00
+
+Executor             :   Nidhi Jolly
+Executor Team        :   Site Ops - IRD
+
+Risk Expected  - 1: No Impact, loss of redundancy
+Risk Business  - 2: Single external application outage or degradation (or multiple internal)
