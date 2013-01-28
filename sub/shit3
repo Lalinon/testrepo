@@ -20,8 +20,7 @@ Scheduled Start Date :   2013/01/30 09:00 PST (2013/01/30 17:00 UTC)
 Scheduled End Date   :   2013/01/30 10:00 PST (2013/01/30 18:00 UTC)
 Duration             :   01:00
 
-Executor             :   Nidhi Jolly
-Executor Team        :   Site Ops - IRD
+eXECUTOR             :   Nidhi Jolly
 
 Risk Expected  - 1: No Impact, loss of redundancy
 Risk Business  - 2: Single external application outage or degradation (or multiple internal)
